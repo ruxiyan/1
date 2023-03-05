@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="42">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"无描述"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>248EAD75BD4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"无描述"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>248EAD75B14</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"无描述"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>248EAD75A34</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"无描述"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>248634C5D34</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
